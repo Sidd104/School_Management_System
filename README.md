@@ -16,3 +16,5 @@ Once logged in, users can access multiple modules through a sidebar menu:
 The system automatically creates and manages multiple database tables (`users`, `students`, `attendance`, `fees`, `payments`, `exam_schedule`). All records are saved in a local SQLite file called `school.db`.
 
 Overall, this application provides a clean, organized, and user-friendly interface for handling student data, tracking attendance, managing finances, and scheduling exams — making it a practical school administration solution built entirely in Python.
+
+[Watch Video Project 2](https://github.com/Sidd104/School_Management_System/blob/633851f1d19ff07696e73486de901afe9f632a4c/Video%20Project%202.mp4)
